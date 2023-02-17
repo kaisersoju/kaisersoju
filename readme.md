@@ -8,11 +8,13 @@ discord: kaisersoju#6903 (my only account/not accepting friend requests)
 
 https://discord.gg/Kur8ecx5 Project EPO Discord
 
-https://tinyurl.com/2kxx7lsm
+https://tinyurl.com/2kxx7lsm My Private Discord Server
 
 <!---
 kaisersoju/kaisersoju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
 stuff can be stored here that's isn't viewed...
+
+password hint = island
 --->
