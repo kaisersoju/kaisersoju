@@ -8,7 +8,7 @@ discord: kaisersoju#6903 (my only account/not accepting friend requests)
 
 https://discord.gg/Kur8ecx5 Project EPO Discord
 
-https://tinyurl.com/2kxx7lsm My Private Discord Server
+https://tinyurl.com/2kxx7lsm My Private Discord Server (special thx jstrieb.github.io/link-lock)
 
 <!---
 kaisersoju/kaisersoju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
