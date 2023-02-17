@@ -4,14 +4,13 @@
 - 💞️ I’m looking to collaborate on reversing usb protocol (practicing on hid descriptors at the moment) and possibly wireless stuff.
 - 📫 How to reach me... look here for links and contact info.
 
-https://preview.tinyurl.com/2kxx7lsm
+discord: kaisersoju#6903 (my only account/not accepting friend requests)
+https://discord.gg/Kur8ecx5 Project EPO Discord
+https://tinyurl.com/2kxx7lsm
 
 <!---
 kaisersoju/kaisersoju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
 stuff can be stored here that's isn't viewed...
-discord: kaisersoju#6903 (only account/no alts)
-https://discord.gg/Kur8ecx5 Project EPO Discord
-I'm on both but my privacy settings do not allow any direct messaging
 --->
