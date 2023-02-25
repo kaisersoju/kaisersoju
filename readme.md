@@ -10,7 +10,7 @@ discord: kaisersoju#6903 (my only account/not accepting friend requests)
 
 https://tinyurl.com/2kxx7lsm My Private Discord Server (special thx jstrieb.github.io/link-lock)
 
-[![ProjectEPO:](https://invidget.switchblade.xyz/Kur8ecx5)](http://discord.gg/Kur8ecx5)
+ProjectEPO: http://discord.gg/Kur8ecx5
 
 
 
