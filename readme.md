@@ -7,6 +7,7 @@
 discord: kaisersoju#6903 (my only account/not accepting friend requests)
 
 [![Discord:](https://invidget.switchblade.xyz/vHqYM5jRPR)](http://discord.gg/vHqYM5jRPR)
+
 [![Discord:](https://invidget.switchblade.xyz/Kur8ecx5)](http://discord.gg/Kur8ecx5)
 
 https://tinyurl.com/2kxx7lsm My Private Discord Server (special thx jstrieb.github.io/link-lock)
