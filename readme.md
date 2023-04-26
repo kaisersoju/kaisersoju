@@ -6,7 +6,7 @@
 
 discord: kaisersoju#6903 (my only account/not accepting friend requests)
 
-[![Discord:](https://invidget.switchblade.xyz/MRecQ4mPuT)](http://discord.gg/MRecQ4mPuT)
+[![Discord:](https://invidget.switchblade.xyz/5Q4RGwhQ)](http://discord.gg/5Q4RGwhQ)
 
 Visit Project EPO: http://discord.gg/Kur8ecx5
 
