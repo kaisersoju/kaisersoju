@@ -5,14 +5,14 @@
 - 📫 How to reach me... look here for links and contact info.
 
 discord: kaisersoju#6903 (my only account/not accepting friend requests)
-
+<!---
 [![Discord:](https://invidget.switchblade.xyz/5Q4RGwhQ)](http://discord.gg/5Q4RGwhQ)
 
 Visit Project EPO: http://discord.gg/Kur8ecx5
 
 
 
-<!---
+
 kaisersoju/kaisersoju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
