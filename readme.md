@@ -5,6 +5,7 @@
 - 📫 How to reach me... look here for links and contact info.
 
 discord: kaisersoju#6903 (my only account/not accepting friend requests)
+kaisersoju's island: https://discord.gg/Yevezx7ht5
 <!---
 [![Discord:](https://invidget.switchblade.xyz/5Q4RGwhQ)](http://discord.gg/5Q4RGwhQ)
 
